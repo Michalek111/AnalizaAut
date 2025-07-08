@@ -33,8 +33,8 @@ Interaktywna aplikacja webowa do analizy danych o cenach i ofercie samochodów w
 
 1. **Sklonuj repozytorium:**
 ```bash
-git clone https://github.com/twoj-username/analiza-rynku-samochodowego.git
-cd analiza-rynku-samochodowego
+git clone https://github.com/Michalek111/AnalizaAut
+cd AnalizaAut
 ```
 
 2. **Zainstaluj wymagane pakiety:**
