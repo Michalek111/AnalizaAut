@@ -42,17 +42,13 @@ cd AnalizaAut
 pip install streamlit pandas matplotlib seaborn sqlite3
 ```
 
-3. **Przejdź do katalogu aplikacji:**
-```bash
-cd KosztyAutPolska
-```
 
-4. **Uruchom aplikację:**
+3. **Uruchom aplikację:**
 ```bash
 python -m streamlit run app.py
 ```
 
-5. **Otwórz przeglądarkę:**
+4. **Otwórz przeglądarkę:**
 Aplikacja będzie dostępna pod adresem: `http://localhost:xxxx`
 
 ## 📖 Jak używać
